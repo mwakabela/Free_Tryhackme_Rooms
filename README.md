@@ -3,6 +3,10 @@ This is a list of 350+ Free Tryhackme rooms to start learning hacking. I have ar
 
 ![](img/tryhackme.png)
 
+<div align = "center"
+ <p> </p><a align = "center" href="https://tryhackme.com/resources/blog/free_path" target="_blank">Here is a guide to beginner pathways</a>
+</div>
+
 <h2>Intro:</h2>
 https://tryhackme.com/room/hello
 <br/>https://tryhackme.com/room/howtousetryhackme
