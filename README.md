@@ -1,4 +1,4 @@
-# Free_Tryhackme_Rooms
+<h1 align= "center" > Free Tryhackme Rooms </h1>
 This is a list of 350+ Free Tryhackme rooms to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
 
 ![](img/tryhackme.png)
@@ -466,7 +466,6 @@ https://tryhackme.com/room/hello
 
 <p> This second part of TryHackMe Rooms contain a series of rooms from Beginner to Expert Level rooms that are both free and paid.</p>
 
-<br />
 
 # Intro
 
